@@ -14,6 +14,7 @@ import code_icon from './code_icon.png'
 import send_icon from './send_icon.png'
 import gemini_icon from './gemini_icon.png'
 import formal_pic_gemini from './formal_pic_gemini.png'
+import video_bg from './video_bg.mp4'
 export const assets = {
     history_icon,
     menu_icon,

@@ -2,6 +2,9 @@ import React, { useContext } from "react";
 import "./Main.css";
 import { assets } from "../../assets/assets";
 import { Context } from "../../context/Context";
+
+
+
 const Main = () => {
   const {
     onSent,
@@ -14,6 +17,7 @@ const Main = () => {
   } = useContext(Context);
   return (
     <div className="main">
+       
       <div className="nav">
         <p>Gemini</p>
         <img src={assets.formal_pic_gemini} alt="" />
