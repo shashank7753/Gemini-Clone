@@ -27,7 +27,7 @@ const Main = () => {
           <>
             <div className="greet">
               <p>
-                <span>Hello, Kshitij.</span>
+                <span>Hello, Shashank Mishra.</span>
               </p>
               <p>How May I Assist You Today?</p>
             </div>
@@ -88,7 +88,7 @@ const Main = () => {
             </div>
           </div>
           <p className="bottom-info">
-            Altough a Gemini clone has been developed by Kshitij Still it may
+            Altough a Gemini clone has been developed by Shashank Mishra Still it may
             display incorrect info.
           </p>
         </div>
